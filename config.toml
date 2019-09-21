@@ -1,0 +1,9 @@
+baseURL = "https://ismael.casimpan.com/quicktasks-fail2ban"
+languageCode = "en-us"
+title = "Quick Tasks: Fail2ban"
+theme = "basics"
+
+[params]
+    author = "Ismael Casimpan"
+    github = "icasimpan"
+    #gitlab = "username2"
