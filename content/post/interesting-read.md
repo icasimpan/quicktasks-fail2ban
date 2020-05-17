@@ -1,7 +1,7 @@
 ---
 title: "Interesting Read"
 date: 2019-09-28T23:17:11+08:00
-tags: [fail2ban]
+tags: [fail2ban, more-info]
 draft: false
 ---
 
